@@ -1,6 +1,6 @@
 export GITACCOUNT= Peng-Xu
 
-export MYCLUSTER=tektonknativebeijing66
+export MYCLUSTER=tektonknativebeijing28
 export KUBECONFIG=
 
 export NAMESPACE=tektondevops-ims-617
