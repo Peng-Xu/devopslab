@@ -1,6 +1,6 @@
 export GITACCOUNT= Peng-Xu
 
-export MYCLUSTER=
+export MYCLUSTER=ims-617
 export KUBECONFIG=
 
 export NAMESPACE=
